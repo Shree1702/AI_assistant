@@ -1,16 +1,16 @@
 # AI_assistant
 Welcome to AI Assistant, a voice-controlled assistant built using Python and Tkinter, designed to perform various tasks such as playing music, telling jokes, searching the web, and much more. This assistant can recognize and respond to voice commands, making it a versatile tool for personal and productivity use.
 
-Table of Contents
-Features
-Setup and Installation
-Prerequisites
-Installation
-Running the Assistant
-Usage
-Contributing
-License
-Acknowledgments
+# Table of Contents
+# Features
+# Setup and Installation
+# Prerequisites
+# Installation
+# Running the Assistant
+# Usage
+# Contributing
+# License
+# Acknowledgments
 Features
 Voice Recognition: Uses speech_recognition to interpret voice commands.
 Text-to-Speech: Uses pyttsx3 to convert text responses into speech.
