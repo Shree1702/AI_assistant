@@ -26,8 +26,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Shree1702/AI_assistant.git
-cd AI_assistant
+git clone https://github.com/yourusername/ai_assistant.git
+cd ai_assistant
 Install the required Python packages:
 
 bash
