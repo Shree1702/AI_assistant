@@ -11,7 +11,7 @@ Welcome to AI Assistant, a voice-controlled assistant built using Python and Tki
 # Contributing
 # License
 # Acknowledgments
-Features
+# Features
 Voice Recognition: Uses speech_recognition to interpret voice commands.
 Text-to-Speech: Uses pyttsx3 to convert text responses into speech.
 Task Automation: Can open websites, tell the time, play songs on YouTube, tell jokes, etc.
